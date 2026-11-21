@@ -10,12 +10,12 @@
       "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Apple.png"
     },
     {
-      "name": "AIGC",
-      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/AIGC.png"
-    },
-    {
       "name": "Telegram",
       "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Telegram.png"
+    },
+    {
+      "name": "AIGC",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/AIGC.png"
     },
     {
       "name": "Netflix",
@@ -42,10 +42,6 @@
       "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/BiliBili.png"
     },
     {
-      "name": "GlobalMedia",
-      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/GlobalMedia.png"
-    },
-    {
       "name": "Microsoft",
       "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Microsoft.png"
     },
@@ -56,6 +52,58 @@
     {
       "name": "Game",
       "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Game.png"
+    },
+    {
+      "name": "GlobalMedia",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/GlobalMedia.png"
+    },
+    {
+      "name": "经纬线地球",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/GlobeGrid.png"
+    },
+    {
+      "name": "文件夹",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Folder.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/X.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Emby.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Instagram.png"
+    },
+    {
+      "name": "香港",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/HongKong.png"
+    },
+    {
+      "name": "台湾",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Taiwan.png"
+    },
+    {
+      "name": "美国",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/UnitedStates.png"
+    },
+    {
+      "name": "日本",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Japan.png"
+    },
+    {
+      "name": "韩国",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/SouthKorea.png"
+    },
+    {
+      "name": "新加坡",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Singapore.png"
+    },
+    {
+      "name": "地球",
+      "url": "https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/Earth.png"
     }
   ]
 }

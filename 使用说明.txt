@@ -1,4 +1,3 @@
-这套图标从设计预览图中逐个裁切，带粉紫底色。
-
+26 枚透明背景 PNG 图标。
 在 Surge 的策略组图标订阅中添加以下地址。
 https://raw.githubusercontent.com/abbie23333/Surge-Pastel-Icons/main/surge-icons.json
